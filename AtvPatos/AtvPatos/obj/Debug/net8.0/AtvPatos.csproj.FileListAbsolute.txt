@@ -1,0 +1,14 @@
+C:\Users\1gabr\OneDrive\Documentos\Programação\AtvPatos\AtvPatos\bin\Debug\net8.0\AtvPatos.exe
+C:\Users\1gabr\OneDrive\Documentos\Programação\AtvPatos\AtvPatos\bin\Debug\net8.0\AtvPatos.deps.json
+C:\Users\1gabr\OneDrive\Documentos\Programação\AtvPatos\AtvPatos\bin\Debug\net8.0\AtvPatos.runtimeconfig.json
+C:\Users\1gabr\OneDrive\Documentos\Programação\AtvPatos\AtvPatos\bin\Debug\net8.0\AtvPatos.dll
+C:\Users\1gabr\OneDrive\Documentos\Programação\AtvPatos\AtvPatos\bin\Debug\net8.0\AtvPatos.pdb
+C:\Users\1gabr\OneDrive\Documentos\Programação\AtvPatos\AtvPatos\obj\Debug\net8.0\AtvPatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1gabr\OneDrive\Documentos\Programação\AtvPatos\AtvPatos\obj\Debug\net8.0\AtvPatos.AssemblyInfoInputs.cache
+C:\Users\1gabr\OneDrive\Documentos\Programação\AtvPatos\AtvPatos\obj\Debug\net8.0\AtvPatos.AssemblyInfo.cs
+C:\Users\1gabr\OneDrive\Documentos\Programação\AtvPatos\AtvPatos\obj\Debug\net8.0\AtvPatos.csproj.CoreCompileInputs.cache
+C:\Users\1gabr\OneDrive\Documentos\Programação\AtvPatos\AtvPatos\obj\Debug\net8.0\AtvPatos.dll
+C:\Users\1gabr\OneDrive\Documentos\Programação\AtvPatos\AtvPatos\obj\Debug\net8.0\refint\AtvPatos.dll
+C:\Users\1gabr\OneDrive\Documentos\Programação\AtvPatos\AtvPatos\obj\Debug\net8.0\AtvPatos.pdb
+C:\Users\1gabr\OneDrive\Documentos\Programação\AtvPatos\AtvPatos\obj\Debug\net8.0\AtvPatos.genruntimeconfig.cache
+C:\Users\1gabr\OneDrive\Documentos\Programação\AtvPatos\AtvPatos\obj\Debug\net8.0\ref\AtvPatos.dll
