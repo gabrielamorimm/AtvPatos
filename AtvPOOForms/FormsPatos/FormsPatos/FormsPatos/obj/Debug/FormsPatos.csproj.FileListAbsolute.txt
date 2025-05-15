@@ -1,0 +1,9 @@
+C:\Users\proje\Documents\Programação\AtvPOOForms\FormsPatos\FormsPatos\FormsPatos\bin\Debug\FormsPatos.exe.config
+C:\Users\proje\Documents\Programação\AtvPOOForms\FormsPatos\FormsPatos\FormsPatos\bin\Debug\FormsPatos.exe
+C:\Users\proje\Documents\Programação\AtvPOOForms\FormsPatos\FormsPatos\FormsPatos\bin\Debug\FormsPatos.pdb
+C:\Users\proje\Documents\Programação\AtvPOOForms\FormsPatos\FormsPatos\FormsPatos\obj\Debug\FormsPatos.csproj.AssemblyReference.cache
+C:\Users\proje\Documents\Programação\AtvPOOForms\FormsPatos\FormsPatos\FormsPatos\obj\Debug\FormsPatos.Properties.Resources.resources
+C:\Users\proje\Documents\Programação\AtvPOOForms\FormsPatos\FormsPatos\FormsPatos\obj\Debug\FormsPatos.csproj.GenerateResource.cache
+C:\Users\proje\Documents\Programação\AtvPOOForms\FormsPatos\FormsPatos\FormsPatos\obj\Debug\FormsPatos.csproj.CoreCompileInputs.cache
+C:\Users\proje\Documents\Programação\AtvPOOForms\FormsPatos\FormsPatos\FormsPatos\obj\Debug\FormsPatos.exe
+C:\Users\proje\Documents\Programação\AtvPOOForms\FormsPatos\FormsPatos\FormsPatos\obj\Debug\FormsPatos.pdb
